@@ -5,6 +5,7 @@ public class Application {
 
         MyClass mc=  new MyClass();
         mc.getUserName();
+        System.out.println("sdfgsdfgsdfg");
 
     }
 }
